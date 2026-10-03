@@ -1,12 +1,12 @@
 .{
     .name = .nestegg,
-    .version = "0.1.0-dev+eee95c6",
+    .version = "0.1.0-dev+767aab2",
     .fingerprint = 0xf385dbabe171e43d,
     .minimum_zig_version = "0.15.2",
     .dependencies = .{
         .nestegg = .{
-            .url = "git+https://github.com/mozilla/nestegg#eee95c63fd06ace9429abe8a637eea6d53a37c2c",
-            .hash = "N-V-__8AACLqIABCIftjdpuSUTVsypIffskkTRrkpKu9L8Z0",
+            .url = "git+https://github.com/mozilla/nestegg#767aab25013acefbdcc6d68a2a7a2c9081303e3f",
+            .hash = "N-V-__8AALOhIgDs0pnI-iDRa5pCAdDvMa0ykdPDB4WvR2YW",
         },
     },
     .paths = .{
